@@ -1,0 +1,47 @@
+{
+    "name": "DelimitedText1",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureFileStorage1",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "AzureFileStorageLocation",
+                "fileName": "cadastro_clientes.txt"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": [
+            {
+                "name": "id",
+                "type": "String"
+            },
+            {
+                "name": " cpf",
+                "type": "String"
+            },
+            {
+                "name": " nome",
+                "type": "String"
+            },
+            {
+                "name": " endereco",
+                "type": "String"
+            },
+            {
+                "name": " email",
+                "type": "String"
+            },
+            {
+                "name": " telefone",
+                "type": "String"
+            }
+        ]
+    }
+}

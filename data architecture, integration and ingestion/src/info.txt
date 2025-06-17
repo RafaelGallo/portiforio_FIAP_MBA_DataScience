@@ -1,0 +1,6 @@
+selected resource name:		pipeline1
+selected resource type:		pipeline
+data factory name:			dts-datafactory-mba
+data factory location:		brazilsouth
+subscription id:		0ff97e06-e164-4814-bba7-b10e8a85bb5b
+time of download (UTC):		Sun, 23 Mar 2025 21:22:01 GMT

@@ -1,0 +1,21 @@
+codigo,nome,modelo,valor,fabricante,cores,tamanhos
+1001,Camiseta Básica,Regular Fit,1611.52,Marca A,Preto,M
+1002,Calça Jeans,Slim Fit,3759.14,Marca B,Verde;Cinza,GG
+1003,Tênis Esportivo,Running,468.79,Marca C,Cinza;Azul,M;G;P
+1004,Jaqueta Corta-Vento,Impermeável,3663.46,Marca D,Verde;Preto,GG;M;P;G
+1005,Relógio Digital,Smartwatch,4910.45,Marca E,Preto,M;P;GG
+1006,Mochila Escolar,Ergonômica,4738.45,Marca F,Verde,M
+1007,Fone de Ouvido,Bluetooth,1267.02,Marca G,Verde;Vermelho;Branco,M;P
+1008,Celular Android,Dual SIM,263.97,Marca H,Branco,P;G;M
+1009,Notebook,Ultrabook,4875.23,Marca I,Verde;Vermelho,M
+1010,Mouse Gamer,RGB,1666.97,Marca J,Preto;Azul;Cinza,GG;M
+1011,Teclado Mecânico,Switch Azul,3251.67,Marca K,Vermelho;Branco,M
+1012,Monitor LED,24 polegadas,1901.53,Marca L,Preto;Branco;Azul,P;G
+1013,Smart TV,4K,1339.93,Marca M,Vermelho,G
+1014,Ventilador de Mesa,Oscilante,1462.5,Marca N,Cinza;Verde,GG;G;P
+1015,Micro-ondas,30 Litros,1399.27,Marca O,Cinza,M;G
+1016,Geladeira,Frost Free,799.63,Marca P,Branco;Cinza;Vermelho,P;GG;G;M
+1017,Fogão,5 Bocas,172.88,Marca Q,Branco;Vermelho;Azul,M;GG
+1018,Máquina de Lavar,10kg,4072.5,Marca R,Vermelho;Branco,M;P;GG;G
+1019,Cadeira de Escritório,Ergonômica,3089.82,Marca S,Cinza,P;GG;M
+1020,Mesa para Computador,Madeira,2436.78,Marca T,Vermelho;Azul,P;G
