@@ -1,4 +1,4 @@
-# 📊 MBA Data Science & Artificial Intelligence Portfolio - FIAP
+# 📊 MBA Data Science & Artificial Intelligence Portfólio - FIAP
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)](https://jupyter.org/)
